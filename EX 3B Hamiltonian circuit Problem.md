@@ -4,6 +4,7 @@
 To write a python program to check whether Hamiltonian path exits in the given graph.
 
 ## Algorithm
+
 1.Import required module:
 from itertools import permutations
 
